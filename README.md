@@ -47,7 +47,7 @@ Before running the application, ensure you have the following dependencies insta
 
 1. Clone this repository to your local machine.
 ```bash
- git clone https://github.com/aviva997/car-damage-detection.git
+https://github.com/car-damage-detection-Aviva-Shir/car-damage-detection.git
 ```
 2. Clone this repository to your local machine.
 ```bash
